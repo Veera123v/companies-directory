@@ -1,8 +1,8 @@
-import CompanyCard from "../Components/CompanyCard";
-import Filters from "../Components/Filters";
-import Footer from "../Components/Footer";
-import Navbar from "../Components/Navbar";
-import Pagination from "../Components/Pagination";
+import CompanyCard from "../components/CompanyCard";
+import Filters from "../components/Filters";
+import Footer from "../components/Footer";
+import Navbar from "../components/Navbar";
+import Pagination from "../components/Pagination";
 import { useCompanies } from "../hooks/useCompanies";
 
 
